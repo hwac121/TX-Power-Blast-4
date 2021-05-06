@@ -21,3 +21,5 @@ INSTALLATION
 cd txpow3
 chmod +x *.sh
 sudo ./install.sh
+
+PLEASE NOTE: You will need to change the name of the wifi to match your wifi card until I edit the script to where you choose from a list, which I will do soon.
