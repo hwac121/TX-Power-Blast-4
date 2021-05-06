@@ -229,7 +229,7 @@ select opt in "${options[@]}" ; do
 			clear
 			Splash
 			echo -e " "
-			echo -e "\e[37mThank you for using TX Power Blast 3.0 by Majik Cat Security - July 2019\e[0m"
+			echo -e "\e[37mThank you for using TX Power Blast 4.0 by Majik Cat Security - July 2019\e[0m"
 			sleep 3
 			clear
 			menu=1
